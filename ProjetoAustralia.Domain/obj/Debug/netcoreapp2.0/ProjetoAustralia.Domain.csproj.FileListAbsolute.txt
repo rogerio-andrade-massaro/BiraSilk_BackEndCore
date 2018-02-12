@@ -1,0 +1,9 @@
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Domain\bin\Debug\netcoreapp2.0\ProjetoAustralia.Domain.deps.json
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Domain\bin\Debug\netcoreapp2.0\ProjetoAustralia.Domain.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Domain\obj\Debug\netcoreapp2.0\ProjetoAustralia.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Domain\obj\Debug\netcoreapp2.0\ProjetoAustralia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Domain\obj\Debug\netcoreapp2.0\ProjetoAustralia.Domain.AssemblyInfoInputs.cache
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Domain\obj\Debug\netcoreapp2.0\ProjetoAustralia.Domain.AssemblyInfo.cs
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Domain\bin\Debug\netcoreapp2.0\ProjetoAustralia.Domain.pdb
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Domain\obj\Debug\netcoreapp2.0\ProjetoAustralia.Domain.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Domain\obj\Debug\netcoreapp2.0\ProjetoAustralia.Domain.pdb

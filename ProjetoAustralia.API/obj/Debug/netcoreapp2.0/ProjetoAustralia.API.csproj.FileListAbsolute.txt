@@ -1,0 +1,17 @@
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.API.deps.json
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.API.runtimeconfig.json
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.API.runtimeconfig.dev.json
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.API.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.API.pdb
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.Application.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.Data.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.Domain.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.Application.pdb
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.Data.pdb
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\bin\Debug\netcoreapp2.0\ProjetoAustralia.Domain.pdb
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\obj\Debug\netcoreapp2.0\ProjetoAustralia.API.csprojResolveAssemblyReference.cache
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\obj\Debug\netcoreapp2.0\ProjetoAustralia.API.csproj.CoreCompileInputs.cache
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\obj\Debug\netcoreapp2.0\ProjetoAustralia.API.AssemblyInfoInputs.cache
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\obj\Debug\netcoreapp2.0\ProjetoAustralia.API.AssemblyInfo.cs
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\obj\Debug\netcoreapp2.0\ProjetoAustralia.API.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.API\obj\Debug\netcoreapp2.0\ProjetoAustralia.API.pdb

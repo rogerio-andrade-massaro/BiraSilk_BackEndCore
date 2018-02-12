@@ -1,0 +1,11 @@
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\obj\Debug\netcoreapp2.0\ProjetoAustralia.Application.csprojResolveAssemblyReference.cache
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\obj\Debug\netcoreapp2.0\ProjetoAustralia.Application.csproj.CoreCompileInputs.cache
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\obj\Debug\netcoreapp2.0\ProjetoAustralia.Application.AssemblyInfoInputs.cache
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\obj\Debug\netcoreapp2.0\ProjetoAustralia.Application.AssemblyInfo.cs
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\bin\Debug\netcoreapp2.0\ProjetoAustralia.Application.deps.json
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\bin\Debug\netcoreapp2.0\ProjetoAustralia.Application.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\bin\Debug\netcoreapp2.0\ProjetoAustralia.Application.pdb
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\bin\Debug\netcoreapp2.0\ProjetoAustralia.Domain.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\bin\Debug\netcoreapp2.0\ProjetoAustralia.Domain.pdb
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\obj\Debug\netcoreapp2.0\ProjetoAustralia.Application.dll
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ProjetoAustralia\BackEndCore\ProjetoAustralia\ProjetoAustralia.Application\obj\Debug\netcoreapp2.0\ProjetoAustralia.Application.pdb
